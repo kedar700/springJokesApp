@@ -1,4 +1,4 @@
-package com.joke.springjokes;
+package kedar.springframework.jokes;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringjokesApplicationTests {
+public class SpringJokesAppApplicationTests {
 
 	@Test
 	public void contextLoads() {

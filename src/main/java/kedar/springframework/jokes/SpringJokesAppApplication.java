@@ -1,12 +1,12 @@
-package com.joke.springjokes;
+package kedar.springframework.jokes;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringjokesApplication {
+public class SpringJokesAppApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringjokesApplication.class, args);
+		SpringApplication.run(SpringJokesAppApplication.class, args);
 	}
 }
